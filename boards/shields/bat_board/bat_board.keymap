@@ -7,6 +7,10 @@
     continue-list= <UNDERSCORE MINUS DELETE BACKSPACE>;
 };
 
+&led_strip {
+    chain-length = <30>;
+};
+
 / {
     macros {
         four_space: four_space {
