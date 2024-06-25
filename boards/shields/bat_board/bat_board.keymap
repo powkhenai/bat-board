@@ -65,7 +65,7 @@
   &caps_word &kp Q  &kp W   &kp E   &kp R   &kp T                           &kp Y    &kp U   &kp I   &kp O   &kp P   &kp BSLH
   &rpi LCMD ESC   &kp A   &kp S   &kp D   &kp F   &kp G                           &kp H    &kp J   &kp K   &kp L   &kp SEMI &rpi RCMD SQT
   &ht_hp LSHIFT GRAVE &tdz &kp X &kp C &kp V &lt 2 B                         &kp N    &kp M   &kp COMMA &kp DOT &kp FSLH &kp RSHIFT
-                                                    &kp b &kp a        &kp t &kp N1
+                                                    &kp B &kp A        &kp T &kp N1
                             &kp LCTRL &kp LALT &lt 1 RET &kp BSPC      &kp TAB &lt 1 SPACE &kp RALT &kp RCTL
             >;
         };
