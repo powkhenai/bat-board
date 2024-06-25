@@ -1,0 +1,5 @@
+config SHIELD_BAT_BOARD_LEFT
+    def_bool $(shields_list_contains,bat_board_left)
+
+config SHIELD_BAT_BOARD_RIGHT
+    def_bool $(shields_list_contains,bat_board_right)
