@@ -6,6 +6,7 @@ url: https://github.com/powkhenai
 requires: [nice_nano_v2]
 features:
   - keys
+  - underglow
 siblings:
   - bat_board_left
   - bat_board_right
