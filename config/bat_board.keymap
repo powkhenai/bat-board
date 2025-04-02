@@ -60,7 +60,7 @@
 
         JakeToggle {
             bindings = <&tog 3>;
-            key-positions = <24 31 32>
+            key-positions = <24 31 32>;
         };
     };
 
