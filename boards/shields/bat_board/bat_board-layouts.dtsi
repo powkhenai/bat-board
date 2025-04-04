@@ -1,4 +1,4 @@
-#include <physicalayouts.dtsi>
+#include <physical_layouts.dtsi>
 
 / {
     physical_layout0: physical_layout_0 {
