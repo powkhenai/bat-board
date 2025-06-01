@@ -1,7 +1,7 @@
 if SHIELD_BAT_BOARD_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Bat Mobile"
+    default "Bat Board"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
@@ -13,7 +13,7 @@ config ZMK_SPLIT_BLE_CENTRAL_BATTERY_LEVEL_PROXY
     default n
 
 config ZMK_EXT_POWER
-    default n
+    default y
 
 endif
 
